@@ -3,7 +3,7 @@ title: Why Repeating Your Message Is Essential for Building Your Brand
 description: Repeating content isn't something to shy away from -- it's a powerful tool for growing your brand on social media.
 author: BrandGhost
 date: 2025-01-01 00:00:00 +0800
-categories: [BrandGhost, Social Media, Features]
+categories: [Content Strategy, Social Media]
 tags: [social media, brand, content, content strategy, posting, engagement, impressions]
 pin: true
 math: true

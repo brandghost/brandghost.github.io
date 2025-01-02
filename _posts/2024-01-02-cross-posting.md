@@ -3,7 +3,7 @@ title: Why Cross-Posting to Different Platforms Is a Game-Changer for Content Cr
 description: Cross-posting is a simple way to amplify the reach of your content! Grow your audience by cross-posting across socials!
 author: BrandGhost
 date: 2025-01-02 00:00:00 +0800
-categories: [BrandGhost, Social Media, Features]
+categories: [Content Strategy, Social Media]
 tags: [social media, brand, content, content strategy, posting, engagement, impressions, cross posting]
 pin: true
 math: true
