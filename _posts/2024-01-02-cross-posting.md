@@ -8,6 +8,7 @@ tags: [social media, brand, content, content strategy, posting, engagement, impr
 pin: true
 math: true
 mermaid: true
+image: https://brandghostpublic.blob.core.windows.net/blog/cross-posting.png
 ---
 
 # Why Cross-Posting to Different Platforms Is a Game-Changer for Content Creators
