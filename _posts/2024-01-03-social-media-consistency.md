@@ -1,5 +1,5 @@
 ---
-title: Mastering Social Media Consistency: How to Stay Engaged Without Burning Out
+title: Mastering Social Media Consistency - How to Stay Engaged Without Burning Out
 description: Consistency requires sustainability! Let's see how this can be done with tools like BrandGhost!
 author: BrandGhost
 date: 2025-01-03 00:00:00 +0800
