@@ -8,6 +8,7 @@ tags: [social media, brand, content, content strategy, posting, consistency, sch
 pin: true
 math: true
 mermaid: true
+image: https://brandghostpublic.blob.core.windows.net/blog/social-feed.png
 ---
 
 # Mastering Social Media Consistency: How to Stay Engaged Without Burning Out
