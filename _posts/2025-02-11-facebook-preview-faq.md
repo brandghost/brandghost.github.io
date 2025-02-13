@@ -1,6 +1,6 @@
 ---
 title: Troubleshooting Facebook Link Previews - FAQ for BrandGhost Users
-description: Facebook’s API has some quirks when handling links, and we’re here to help you resolve them
+description: Facebook’s Posts has some quirks when handling links, and we’re here to help you resolve them
 author: BrandGhost
 date: 2025-02-13 00:00:00 +0800
 categories: [Content Strategy, Social Media]
