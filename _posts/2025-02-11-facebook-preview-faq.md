@@ -9,7 +9,7 @@ tags:
 pin: true
 math: true
 mermaid: true
-image: https://brandghostpublic.blob.core.windows.net/blog/Screenshot_20250206-211627~2.png
+image: ""
 ---
 
 # Troubleshooting Facebook Link Previews - FAQ for BrandGhost Users
