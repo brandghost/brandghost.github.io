@@ -36,7 +36,7 @@ When posting a link to Facebook via the API, Facebook needs to scrape the URL to
 
 Facebook relies on Open Graph (OG) meta tags to generate previews. To ensure your page is properly set up:
 
-1. Open the Facebook Sharing Debugger.
+1. Open the Facebook [Sharing Debugger](https://developers.facebook.com/tools/debug/)
 
 2. Enter your URL and click Debug.
 
