@@ -42,7 +42,9 @@ Currently, BrandGhost supports Twitter, Threads, Bluesky, and YouTube, with plan
 Instead of manually tracking every comment across different platforms, BrandGhost’s Unified Feed allows you to:
 
 ✔ View all replies and comments from Twitter, Threads, Bluesky, and YouTube in one feed.
+
 ✔ Respond instantly from a single dashboard, without switching apps.
+
 ✔ Stay ahead of conversations and engage with your audience in real time.
 
 ### Real-World Use Cases
