@@ -20,7 +20,7 @@ tags:
 pin: true
 math: true
 mermaid: true
-image: https://cdn.prod.website-files.com/66f1bbc70728bca21c94e059/67c5e0104844f5f538260f5b_Copy%20of%20www.reallygreatsite.com%20(2048%20x%201152%20px).png
+image: https://cdn.prod.website-files.com/66f1bbc70728bca21c94e059/67c5e59a33c5e1f72750ed44_Copy%20of%20www.reallygreatsite.com%20(2048%20x%201152%20px)%20(1).png
 ---
 
 ## The Creator's Dilemma: So Much to Do, So Little Time
