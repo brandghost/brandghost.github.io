@@ -35,7 +35,9 @@ Reddit has evolved beyond just subreddits—it’s where creators, thought leade
 Until now, scheduling tools have limited Reddit posting to subreddits only, leaving profile posting as a manual afterthought. With BrandGhost, you can now:
 
 ✅ Schedule posts directly to your Reddit profile
+
 ✅ Cross-post seamlessly across platforms (Twitter, Facebook, Instagram, LinkedIn, Bluesky, and now Reddit)
+
 ✅ Plan ahead and maintain a consistent posting schedule
 
 ## The Feature You’ve Been Waiting For
@@ -47,7 +49,9 @@ We know many of you have been asking for this—because we’ve been listening. 
 Reddit cross-posting is available now on BrandGhost. Whether you’re an existing user or new to the platform, it’s easy to get started:
 
 1️⃣ Connect your Reddit account in BrandGhost
+
 2️⃣ Create your post and select your Reddit profile as the destination
+
 3️⃣ Schedule, publish instantly, or add it to a topic stream
 
 That’s it. No workarounds, no manual posting—just smooth, effortless content scheduling for Reddit.
