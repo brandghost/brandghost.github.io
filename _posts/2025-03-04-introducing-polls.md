@@ -1,5 +1,5 @@
 ---
-title: Introducing Poll posts in BrandGhost!
+title: Introducing Poll Posts in BrandGhost!
 description: ​We're excited to introduce Poll Posts, a new BrandGhost feature that empowers you to create interactive polls on LinkedIn and Twitter, enhancing audience engagement and gathering valuable insights.​
 author: BrandGhost
 date: 2025-03-04 00:22:30:00 -0500
@@ -60,13 +60,11 @@ With BrandGhost's Poll Posts feature, you can seamlessly integrate polls into yo
 
 To start leveraging the power of polls:​
 
-1. Log into BrandGhost: Access your dashboard and navigate to the Poll Posts section.​
+1. Log into BrandGhost: Go to Post Now or Schedule Post, then choose the Poll post type.
 
 2. Create Your Poll: Draft your question and provide multiple-choice answers tailored to your audience's interests.​
 
 3. Schedule or Post Immediately: Choose to publish your poll right away or schedule it for optimal engagement times.​
-
-4. Analyze Results: Use our analytics tools to track responses and engagement metrics, refining your content strategy based on real data.​
 
 Incorporating polls into your social media efforts can lead to richer interactions and deeper audience understanding. With BrandGhost's Poll Posts feature, creating engaging polls is now simpler than ever.​
 
