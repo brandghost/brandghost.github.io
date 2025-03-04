@@ -1,5 +1,5 @@
 ---
-title: Introducing
+title: Introducing Poll posts in BrandGhost!
 description: ​We're excited to introduce Poll Posts, a new BrandGhost feature that empowers you to create interactive polls on LinkedIn and Twitter, enhancing audience engagement and gathering valuable insights.​
 author: BrandGhost
 date: 2025-03-03 00:22:30:00 -0500
