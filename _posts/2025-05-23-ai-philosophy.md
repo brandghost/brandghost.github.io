@@ -31,7 +31,7 @@ From the way we write captions to how we schedule posts, every decision we make 
 
 We hope this philosophy gives you confidence in where BrandGhost is heading, and what we stand for.
 
-Read the full AI Philosophy here: https://www.brandghost.ai/ai-philosophy
+Read the full AI Philosophy here: [https://www.brandghost.ai/ai-philosophy](https://www.brandghost.ai/ai-philosophy)
 
 Let’s build the future of content together.
 
