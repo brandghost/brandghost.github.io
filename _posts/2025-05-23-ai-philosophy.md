@@ -25,15 +25,15 @@ We’ve seen firsthand how AI can unlock creativity, reduce friction, and help c
 
 ## Our Philosophy
 
-Our philosophy is rooted in one belief — that creators and brands should remain at the heart of their content. We don’t believe in full automation that removes your touch, your tone, or your intent. Instead, we believe in human-first workflows, guided by AI, where you’re in control.
+Our philosophy is rooted in one belief: that creators and brands should remain at the heart of their content. We don’t believe in full automation that removes your touch, your tone, or your intent. Instead, we believe in human-first workflows, guided by AI, where you’re in control.
 
 From the way we write captions to how we schedule posts, every decision we make is grounded in this principle. We’re proud to share this publicly because we think the creator community deserves transparency, respect, and tools that work with them, not instead of them.
 
-We hope this philosophy gives you confidence in where BrandGhost is heading — and what we stand for.
+We hope this philosophy gives you confidence in where BrandGhost is heading, and what we stand for.
 
 Read the full AI Philosophy here: https://www.brandghost.ai/ai-philosophy
 
 Let’s build the future of content together.
 
 Sincerely,
-Nick and Tayfun, Co-Founders - BrandGhost
+Nick and Tayfun, Co-Founders @ BrandGhost
