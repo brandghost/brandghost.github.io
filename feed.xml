@@ -1,0 +1,157 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://blog.brandghost.ai/</id>
+  <title>BrandGhost</title>
+  <subtitle>Reduce time and effort in growing your content creator business.</subtitle>
+  <updated>2025-11-26T15:33:08+00:00</updated>
+  <author>
+    <name>BrandGhost</name>
+    <uri>https://blog.brandghost.ai/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://blog.brandghost.ai/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="https://blog.brandghost.ai/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025 BrandGhost </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>BrandGhost Adds Telegram Posting, LinkedIn Imports, and Smart Media Auto-Sizing</title>
+    <link href="https://blog.brandghost.ai/posts/telegram-linkedinbulk-media-size/" rel="alternate" type="text/html" title="BrandGhost Adds Telegram Posting, LinkedIn Imports, and Smart Media Auto-Sizing" />
+    <published>2025-10-16T16:00:00+00:00</published>
+  
+    <updated>2025-10-16T16:00:00+00:00</updated>
+  
+    <id>https://blog.brandghost.ai/posts/telegram-linkedinbulk-media-size/</id>
+    <content type="text/html" src="https://blog.brandghost.ai/posts/telegram-linkedinbulk-media-size/" />
+    <author>
+      <name>BrandGhost</name>
+    </author>
+
+  
+    
+    <category term="Content Strategy" />
+    
+    <category term="Social Media" />
+    
+  
+
+  <summary>Save even more manual effort when creating and publishing</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>How to Stay Consistent on Reddit Without Burning Out - A Better Way to Cross‑Post</title>
+    <link href="https://blog.brandghost.ai/posts/how-to-max-reddit/" rel="alternate" type="text/html" title="How to Stay Consistent on Reddit Without Burning Out - A Better Way to Cross‑Post" />
+    <published>2025-07-27T16:00:00+00:00</published>
+  
+    <updated>2025-07-27T16:00:00+00:00</updated>
+  
+    <id>https://blog.brandghost.ai/posts/how-to-max-reddit/</id>
+    <content type="text/html" src="https://blog.brandghost.ai/posts/how-to-max-reddit/" />
+    <author>
+      <name>BrandGhost</name>
+    </author>
+
+  
+    
+    <category term="Content Strategy" />
+    
+    <category term="Social Media" />
+    
+  
+
+  <summary>Reddit isn’t just a comments site anymore</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>AI and the Future of Content Creation - What Every Marketer Needs to Know</title>
+    <link href="https://blog.brandghost.ai/posts/ai-future-content-creation/" rel="alternate" type="text/html" title="AI and the Future of Content Creation - What Every Marketer Needs to Know" />
+    <published>2025-06-10T05:00:00+00:00</published>
+  
+    <updated>2025-06-10T05:00:00+00:00</updated>
+  
+    <id>https://blog.brandghost.ai/posts/ai-future-content-creation/</id>
+    <content type="text/html" src="https://blog.brandghost.ai/posts/ai-future-content-creation/" />
+    <author>
+      <name>BrandGhost</name>
+    </author>
+
+  
+    
+    <category term="Content Strategy" />
+    
+    <category term="Social Media" />
+    
+    <category term="AI" />
+    
+  
+
+  <summary>Explore how AI is shaking up content creation and social media in 2025. Learn practical ways to use AI for ideation, writing, design, and scheduling—and see how BrandGhost empowers creators and marketers to work smarter.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>The Social Media Automation Tool That Actually Respects Your Time</title>
+    <link href="https://blog.brandghost.ai/posts/social-media-automation-tool/" rel="alternate" type="text/html" title="The Social Media Automation Tool That Actually Respects Your Time" />
+    <published>2025-05-31T16:00:00+00:00</published>
+  
+    <updated>2025-05-31T16:00:00+00:00</updated>
+  
+    <id>https://blog.brandghost.ai/posts/social-media-automation-tool/</id>
+    <content type="text/html" src="https://blog.brandghost.ai/posts/social-media-automation-tool/" />
+    <author>
+      <name>BrandGhost</name>
+    </author>
+
+  
+    
+    <category term="Automation" />
+    
+    <category term="Social Media" />
+    
+  
+
+  <summary>Discover how modern social media automation tools can transform your content strategy without sacrificing authenticity or creative control.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>We Believe in the Power of AI, and the Power of People</title>
+    <link href="https://blog.brandghost.ai/posts/ai-philosophy/" rel="alternate" type="text/html" title="We Believe in the Power of AI, and the Power of People" />
+    <published>2025-05-23T05:00:00+00:00</published>
+  
+    <updated>2025-05-23T05:00:00+00:00</updated>
+  
+    <id>https://blog.brandghost.ai/posts/ai-philosophy/</id>
+    <content type="text/html" src="https://blog.brandghost.ai/posts/ai-philosophy/" />
+    <author>
+      <name>BrandGhost</name>
+    </author>
+
+  
+    
+    <category term="Content Strategy" />
+    
+    <category term="Social Media" />
+    
+    <category term="AI" />
+    
+  
+
+  <summary>At BrandGhost, we just released our AI Philosophy, and it’s more than a statement, it’s a reflection of how we build, how we serve, and what we believe about the future of content creation.</summary>
+
+  </entry>
+
+</feed>
+
+
