@@ -1,0 +1,96 @@
+# llms.txt for BrandGhost  
+# Last updated: Thu, 18 Dec 2025 04:54:17 +0000
+
+User-Agent: *
+Allow: /
+
+# Basic Info
+Name: BrandGhost  
+Homepage: https://www.brandghost.ai  
+Description: BrandGhost is a social-media management platform that enables content creators, agencies, and businesses to schedule, cross-post, and automate content across all major social networks — saving time, improving consistency, and growing brand presence.
+
+# Core Features  
+Features:  
+  - Cross-platform scheduling across 14 social networks.  
+  - Post now or schedule posts (text, images, videos, carousels, PDFs).  
+  - Automated recurring posting via "Topic Streams".  
+  - Post-length splitting for character-limited platforms.  
+  - Caption-to-screenshot: convert text posts into social-friendly image screenshots.  
+  - Automatic first / follow-up comments, auto-liking, auto-reposting.  
+  - AI-powered content remixing and Ghostwriter — generate fresh posts in your voice using past content or from templates.
+  - Unified engagement feed — manage comments and interactions from multiple platforms in one dashboard.  
+  - Content calendar & post previews (daily / weekly / monthly) including social channel–specific previews and Instagram grid preview.  
+  - Analytics and engagement metrics: follower growth, post trends, engagement tracking over time.  
+  - Content recycling and evergreen-content scoring to optimize reuse of valuable posts.  
+  - Cross-platform user tagging
+
+# Supported Platforms (Social Channels)  
+Social-Channels:  
+  - Bluesky  
+  - LinkedIn  
+  - Facebook  
+  - Instagram  
+  - Pinterest  
+  - Reddit  
+  - Threads  
+  - TikTok  
+  - Tumblr  
+  - X (Twitter)  
+  - Telegram  
+  - YouTube  
+  - Discord  
+  - Mastodon  
+
+# Licensing & Usage  
+Usage: indexing, inference, summarization  
+Attribution: required  
+Attribution-URL: https://www.brandghost.ai  
+
+# Sitemap
+Sitemap: https://www.brandghost.ai/sitemap.xml  
+
+# Contact / Support  
+Contact: hello@brandghost.ai
+Contact-URL: https://www.brandghost.ai/
+
+# Comments  
+# BrandGhost helps content creators and social-media managers publish across platforms with one action, automate routine posting and engagement, and maintain a unified, efficient content workflow — enabling them to focus on creativity and audience connection rather than manual posting overhead.
+
+## All posts
+The links below take you to the raw Markdown content.
+
+- [How to Automate Pinterest Pins for Visual Content Strategy](https://raw.githubusercontent.com/brandghost/brandghost-blog/refs/heads/main/_posts/2025-12-17-automate-pinterest-pins-visual-content.md)
+- [Tools to Schedule Interactive Polls on LinkedIn and Twitter](https://raw.githubusercontent.com/brandghost/brandghost-blog/refs/heads/main/_posts/2025-12-16-schedule-polls-linkedin-twitter.md)
+- [How to Automate Telegram Channel Updates from RSS Feeds](https://raw.githubusercontent.com/brandghost/brandghost-blog/refs/heads/main/_posts/2025-12-15-automate-telegram-channel-rss-feeds.md)
+- [Best Social Media Scheduler for Mastodon and Twitter Cross-Posting](https://raw.githubusercontent.com/brandghost/brandghost-blog/refs/heads/main/_posts/2025-12-14-mastodon-twitter-cross-posting-scheduler.md)
+- [How to Schedule Reddit Posts Without Getting Shadowbanned](https://raw.githubusercontent.com/brandghost/brandghost-blog/refs/heads/main/_posts/2025-12-13-schedule-reddit-posts-without-shadowban.md)
+- [BrandGhost Adds Telegram Posting, LinkedIn Imports, and Smart Media Auto-Sizing](https://raw.githubusercontent.com/brandghost/brandghost-blog/refs/heads/main/_posts/2025-10-17-telegram-linkedinbulk-media-size.md)
+- [How to Stay Consistent on Reddit Without Burning Out - A Better Way to Cross‑Post](https://raw.githubusercontent.com/brandghost/brandghost-blog/refs/heads/main/_posts/2025-07-28-how-to-max-reddit.md)
+- [AI and the Future of Content Creation - What Every Marketer Needs to Know](https://raw.githubusercontent.com/brandghost/brandghost-blog/refs/heads/main/_posts/2025-06-10-ai-future-content-creation.md)
+- [The Social Media Automation Tool That Actually Respects Your Time](https://raw.githubusercontent.com/brandghost/brandghost-blog/refs/heads/main/_posts/2025-06-01-social-media-automation-tool.md)
+- [We Believe in the Power of AI, and the Power of People](https://raw.githubusercontent.com/brandghost/brandghost-blog/refs/heads/main/_posts/2025-05-23-ai-philosophy.md)
+- [The New Rules of Authentic Storytelling for Creators in 2025](https://raw.githubusercontent.com/brandghost/brandghost-blog/refs/heads/main/_posts/2025-05-05-authentic-storytelling-creators-2025.md)
+- [AI Content Generation and the Rise of Virtual Influencers in 2025](https://raw.githubusercontent.com/brandghost/brandghost-blog/refs/heads/main/_posts/2025-05-05-ai-content-generation-virtual-influencers.md)
+- [BrandGhost Now Supports Mastodon](https://raw.githubusercontent.com/brandghost/brandghost-blog/refs/heads/main/_posts/2025-04-04-mastodon.md)
+- [BrandGhost Now Supports Pinterest - Elevate Your Visual Content Strategy!](https://raw.githubusercontent.com/brandghost/brandghost-blog/refs/heads/main/_posts/2025-03-06-introducing-pinterest.md)
+- [Introducing Poll Posts in BrandGhost!](https://raw.githubusercontent.com/brandghost/brandghost-blog/refs/heads/main/_posts/2025-03-04-introducing-polls.md)
+- [10 Time-Saving Tips Every Content Creator Needs to Know](https://raw.githubusercontent.com/brandghost/brandghost-blog/refs/heads/main/_posts/2025-03-03-10-tips-to-save-time.md)
+- [Introducing Reddit Cross-Posting on BrandGhost- Share to Your Profile with Ease](https://raw.githubusercontent.com/brandghost/brandghost-blog/refs/heads/main/_posts/2025-03-03-reddit-announcement.md)
+- [Getting Started as a Creator - A Step-by-Step Guide](https://raw.githubusercontent.com/brandghost/brandghost-blog/refs/heads/main/_posts/2025-03-03-getting-started-as-a-creator.md)
+- [From Zero to Social - How SaaS Founders Can Build an Online Presence](https://raw.githubusercontent.com/brandghost/brandghost-blog/refs/heads/main/_posts/2025-02-28-social-for-founders.md)
+- [How to Plan a Month of Social Media Content in One Hour](https://raw.githubusercontent.com/brandghost/brandghost-blog/refs/heads/main/_posts/2025-02-28-how-to-plan-a-month.md)
+- [Boost Engagement with Image-Based Tweets Using BrandGhost](https://raw.githubusercontent.com/brandghost/brandghost-blog/refs/heads/main/_posts/2025-02-27-tweet-images.md)
+- [Effortlessly Track and Reply to Comments Across Multiple Platforms](https://raw.githubusercontent.com/brandghost/brandghost-blog/refs/heads/main/_posts/2025-02-25-unified-feed.md)
+- [Expand Your Reach with Tumblr Posting via BrandGhost](https://raw.githubusercontent.com/brandghost/brandghost-blog/refs/heads/main/_posts/2025-02-25-tumblr-platform.md)
+- [Maximize Engagement with Threaded Posts](https://raw.githubusercontent.com/brandghost/brandghost-blog/refs/heads/main/_posts/2025-02-25-threaded-posts.md)
+- [Boost Engagement with Scheduled First Comments](https://raw.githubusercontent.com/brandghost/brandghost-blog/refs/heads/main/_posts/2025-02-25-powerful-first-comments.md)
+- [Why Instagram Grid Aesthetic Matters](https://raw.githubusercontent.com/brandghost/brandghost-blog/refs/heads/main/_posts/2025-02-25-instagram-grid.md)
+- [Using BrandGhost with Instagram - Why Your Instagram Business Account Must Be Tied to a Facebook Page](https://raw.githubusercontent.com/brandghost/brandghost-blog/refs/heads/main/_posts/2025-02-24-how-to-connect-ig.md)
+- [Troubleshooting Facebook Link Previews - FAQ for BrandGhost Users](https://raw.githubusercontent.com/brandghost/brandghost-blog/refs/heads/main/_posts/2025-02-11-facebook-preview-faq.md)
+- [How BrandGhost Saves Time and Boosts Impressions - A Success Story with Thimo Koolen](https://raw.githubusercontent.com/brandghost/brandghost-blog/refs/heads/main/_posts/2025-02-07-case-study-thimo.md)
+- [What Are Topic Streams and Why Are They Invaluable for Content Creators?](https://raw.githubusercontent.com/brandghost/brandghost-blog/refs/heads/main/_posts/2024-01-10-topic-stream-intro.md)
+- [Why Every Content Creator Needs an Evergreen Content Strategy](https://raw.githubusercontent.com/brandghost/brandghost-blog/refs/heads/main/_posts/2024-01-08-evergreen-content.md)
+- [Mastering Social Media Consistency - How to Stay Engaged Without Burning Out](https://raw.githubusercontent.com/brandghost/brandghost-blog/refs/heads/main/_posts/2024-01-03-social-media-consistency.md)
+- [Why Cross-Posting to Different Platforms Is a Game-Changer for Content Creators](https://raw.githubusercontent.com/brandghost/brandghost-blog/refs/heads/main/_posts/2024-01-02-cross-posting.md)
+- [Why Repeating Your Message Is Essential for Building Your Brand](https://raw.githubusercontent.com/brandghost/brandghost-blog/refs/heads/main/_posts/2024-01-01-repeat-content.md)
+
