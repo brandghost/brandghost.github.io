@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://blog.brandghost.ai/</id>
+  <title>BrandGhost</title>
+  <subtitle>Reduce time and effort in growing your content creator business.</subtitle>
+  <updated>2026-03-14T18:14:34+00:00</updated>
+  <author>
+    <name>BrandGhost</name>
+    <uri>https://blog.brandghost.ai/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://blog.brandghost.ai/rss.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en" href="https://blog.brandghost.ai/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights>© 2026 BrandGhost</rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+  
+  <entry>
+    <title>Twitter Bulk Scheduling: Scale Content Without Losing Quality</title>
+    <link href="https://blog.brandghost.ai/posts/twitter-bulk-scheduling/" rel="alternate" type="text/html" title="Twitter Bulk Scheduling: Scale Content Without Losing Quality"/>
+    <published>2026-03-14T18:00:00+00:00</published>
+    <updated>2026-03-14T18:00:00+00:00</updated>
+    <id>https://blog.brandghost.ai/posts/twitter-bulk-scheduling/</id>
+    <content type="text/html" src="https://blog.brandghost.ai/posts/twitter-bulk-scheduling/"/>
+    
+    <author>
+      <name>BrandGhost</name>
+    </author>
+    
+    
+    <category term="Social Media Platforms"/>
+    
+    <category term="Twitter"/>
+    
+    
+    <category term="twitter bulk scheduling"/>
+    
+    <category term="bulk scheduling"/>
+    
+    <category term="content at scale"/>
+    
+    <category term="batch scheduling"/>
+    
+    <category term="twitter efficiency"/>
+    
+    <summary>Learn Twitter bulk scheduling workflows that maintain quality at scale. Discover how to batch content efficiently without sacrificing engagement.</summary>
+    
+    
+      
+    <media:content url="https://brandghostpublic.blob.core.windows.net/blog/2026-03-14-twitter-bulk-scheduling-hero.webp" medium="image"/>
+    <media:thumbnail url="https://brandghostpublic.blob.core.windows.net/blog/2026-03-14-twitter-bulk-scheduling-hero.webp"/>
+    
+  </entry>
+  
+  <entry>
+    <title>25 MCP Prompts for Social Media: Templates for Creators and Marketers</title>
+    <link href="https://blog.brandghost.ai/posts/mcp-prompts-social-media/" rel="alternate" type="text/html" title="25 MCP Prompts for Social Media: Templates for Creators and Marketers"/>
+    <published>2026-03-14T13:00:00+00:00</published>
+    <updated>2026-03-14T13:00:00+00:00</updated>
+    <id>https://blog.brandghost.ai/posts/mcp-prompts-social-media/</id>
+    <content type="text/html" src="https://blog.brandghost.ai/posts/mcp-prompts-social-media/"/>
+    
+    <author>
+      <name>BrandGhost</name>
+    </author>
+    
+    
+    <category term="AI &amp; Automation"/>
+    
+    
+    <category term="mcp prompts"/>
+    
+    <category term="social media prompts"/>
+    
+    <category term="ai prompts"/>
+    
+    <category term="mcp social media"/>
+    
+    <category term="claude prompts"/>
+    
+    <summary>A practical library of 25 MCP prompts for social media — organized by use case so creators and marketers can copy, adapt, and get results faster.</summary>
+    
+    
+      
+    <media:content url="https://brandghostpublic.blob.core.windows.net/blog/mcp-prompts-social-media.webp" medium="image"/>
+    <media:thumbnail url="https://brandghostpublic.blob.core.windows.net/blog/mcp-prompts-social-media.webp"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Schedule Bluesky Threads: Multi-Post Content That Connects</title>
+    <link href="https://blog.brandghost.ai/posts/schedule-bluesky-threads/" rel="alternate" type="text/html" title="Schedule Bluesky Threads: Multi-Post Content That Connects"/>
+    <published>2026-03-14T06:00:00+00:00</published>
+    <updated>2026-03-14T06:00:00+00:00</updated>
+    <id>https://blog.brandghost.ai/posts/schedule-bluesky-threads/</id>
+    <content type="text/html" src="https://blog.brandghost.ai/posts/schedule-bluesky-threads/"/>
+    
+    <author>
+      <name>BrandGhost</name>
+    </author>
+    
+    
+    <category term="Social Media Platforms"/>
+    
+    
+    <category term="bluesky threads"/>
+    
+    <category term="schedule bluesky threads"/>
+    
+    <category term="bluesky multi-post"/>
+    
+    <category term="bluesky long-form"/>
+    
+    <category term="threaded posts bluesky"/>
+    
+    <summary>Learn how to schedule Bluesky threads effectively. Create, plan, and publish multi-post sequences that tell complete stories on the decentralized platform.</summary>
+    
+    
+      
+    <media:content url="https://brandghostpublic.blob.core.windows.net/blog/2026-03-14-schedule-bluesky-threads-hero.webp" medium="image"/>
+    <media:thumbnail url="https://brandghostpublic.blob.core.windows.net/blog/2026-03-14-schedule-bluesky-threads-hero.webp"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Twitter Posting Strategy: Engagement Through Smart Planning</title>
+    <link href="https://blog.brandghost.ai/posts/twitter-posting-strategy/" rel="alternate" type="text/html" title="Twitter Posting Strategy: Engagement Through Smart Planning"/>
+    <published>2026-03-13T18:00:00+00:00</published>
+    <updated>2026-03-13T18:00:00+00:00</updated>
+    <id>https://blog.brandghost.ai/posts/twitter-posting-strategy/</id>
+    <content type="text/html" src="https://blog.brandghost.ai/posts/twitter-posting-strategy/"/>
+    
+    <author>
+      <name>BrandGhost</name>
+    </author>
+    
+    
+    <category term="Social Media Platforms"/>
+    
+    <category term="Twitter"/>
+    
+    
+    <category term="twitter posting strategy"/>
+    
+    <category term="twitter strategy"/>
+    
+    <category term="twitter engagement"/>
+    
+    <category term="content strategy"/>
+    
+    <category term="twitter growth"/>
+    
+    <summary>Develop a Twitter posting strategy that drives real engagement. Learn how to plan content, maintain consistency, and grow your audience strategically.</summary>
+    
+    
+      
+    <media:content url="https://brandghostpublic.blob.core.windows.net/blog/2026-03-13-twitter-posting-strategy-hero.webp" medium="image"/>
+    <media:thumbnail url="https://brandghostpublic.blob.core.windows.net/blog/2026-03-13-twitter-posting-strategy-hero.webp"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Best MCP Servers for Social Media Automation in 2025</title>
+    <link href="https://blog.brandghost.ai/posts/best-mcp-servers-social-media/" rel="alternate" type="text/html" title="Best MCP Servers for Social Media Automation in 2025"/>
+    <published>2026-03-13T13:00:00+00:00</published>
+    <updated>2026-03-13T13:00:00+00:00</updated>
+    <id>https://blog.brandghost.ai/posts/best-mcp-servers-social-media/</id>
+    <content type="text/html" src="https://blog.brandghost.ai/posts/best-mcp-servers-social-media/"/>
+    
+    <author>
+      <name>BrandGhost</name>
+    </author>
+    
+    
+    <category term="AI &amp; Automation"/>
+    
+    
+    <category term="mcp servers"/>
+    
+    <category term="social media mcp"/>
+    
+    <category term="best mcp servers"/>
+    
+    <category term="ai social media tools"/>
+    
+    <category term="mcp automation"/>
+    
+    <summary>A tool-agnostic guide to the best MCP servers available for social media scheduling, analytics, and content creation — with honest assessments of each.</summary>
+    
+    
+      
+    <media:content url="https://brandghostpublic.blob.core.windows.net/blog/2026-03-13-best-mcp-servers-social-media-hero.webp" medium="image"/>
+    <media:thumbnail url="https://brandghostpublic.blob.core.windows.net/blog/2026-03-13-best-mcp-servers-social-media-hero.webp"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Bluesky vs Twitter Scheduling: Key Differences for Content Creators</title>
+    <link href="https://blog.brandghost.ai/posts/bluesky-vs-twitter-scheduling/" rel="alternate" type="text/html" title="Bluesky vs Twitter Scheduling: Key Differences for Content Creators"/>
+    <published>2026-03-13T06:00:00+00:00</published>
+    <updated>2026-03-13T06:00:00+00:00</updated>
+    <id>https://blog.brandghost.ai/posts/bluesky-vs-twitter-scheduling/</id>
+    <content type="text/html" src="https://blog.brandghost.ai/posts/bluesky-vs-twitter-scheduling/"/>
+    
+    <author>
+      <name>BrandGhost</name>
+    </author>
+    
+    
+    <category term="Social Media Tools"/>
+    
+    
+    <category term="bluesky vs twitter"/>
+    
+    <category term="bluesky scheduling"/>
+    
+    <category term="twitter scheduling"/>
+    
+    <category term="x scheduling"/>
+    
+    <category term="social media comparison"/>
+    
+    <category term="cross-platform scheduling"/>
+    
+    <summary>Compare Bluesky and Twitter scheduling approaches. Understand platform differences, tool availability, and strategies for managing both networks effectively.</summary>
+    
+    
+      
+    <media:content url="https://brandghostpublic.blob.core.windows.net/blog/2026-03-13-bluesky-vs-twitter-scheduling-hero.webp" medium="image"/>
+    <media:thumbnail url="https://brandghostpublic.blob.core.windows.net/blog/2026-03-13-bluesky-vs-twitter-scheduling-hero.webp"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Twitter Analytics and Scheduling: Data-Driven Strategy</title>
+    <link href="https://blog.brandghost.ai/posts/twitter-analytics-scheduling/" rel="alternate" type="text/html" title="Twitter Analytics and Scheduling: Data-Driven Strategy"/>
+    <published>2026-03-12T18:00:00+00:00</published>
+    <updated>2026-03-12T18:00:00+00:00</updated>
+    <id>https://blog.brandghost.ai/posts/twitter-analytics-scheduling/</id>
+    <content type="text/html" src="https://blog.brandghost.ai/posts/twitter-analytics-scheduling/"/>
+    
+    <author>
+      <name>BrandGhost</name>
+    </author>
+    
+    
+    <category term="Social Media Analytics"/>
+    
+    <category term="Twitter"/>
+    
+    
+    <category term="twitter analytics scheduling"/>
+    
+    <category term="twitter data"/>
+    
+    <category term="twitter metrics"/>
+    
+    <category term="scheduling optimization"/>
+    
+    <category term="data-driven twitter"/>
+    
+    <summary>Master Twitter analytics and scheduling to optimize your posting times. Learn which metrics matter and how to use data to build a smarter content strategy.</summary>
+    
+    
+      
+    <media:content url="https://brandghostpublic.blob.core.windows.net/blog/2026-03-12-twitter-analytics-scheduling-hero.webp" medium="image"/>
+    <media:thumbnail url="https://brandghostpublic.blob.core.windows.net/blog/2026-03-12-twitter-analytics-scheduling-hero.webp"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Bluesky Automation: Save Time Without Losing Authenticity</title>
+    <link href="https://blog.brandghost.ai/posts/bluesky-automation/" rel="alternate" type="text/html" title="Bluesky Automation: Save Time Without Losing Authenticity"/>
+    <published>2026-03-12T06:00:00+00:00</published>
+    <updated>2026-03-12T06:00:00+00:00</updated>
+    <id>https://blog.brandghost.ai/posts/bluesky-automation/</id>
+    <content type="text/html" src="https://blog.brandghost.ai/posts/bluesky-automation/"/>
+    
+    <author>
+      <name>BrandGhost</name>
+    </author>
+    
+    
+    <category term="AI &amp; Automation"/>
+    
+    <category term="Bluesky"/>
+    
+    
+    <category term="bluesky automation"/>
+    
+    <category term="automate bluesky"/>
+    
+    <category term="bluesky scheduling"/>
+    
+    <category term="bluesky tools"/>
+    
+    <category term="social media automation"/>
+    
+    <summary>Learn how to automate Bluesky effectively while maintaining authentic presence. Balance efficiency with genuine engagement on decentralized social media.</summary>
+    
+    
+      
+    <media:content url="https://brandghostpublic.blob.core.windows.net/blog/2026-03-12-bluesky-automation-hero.webp" medium="image"/>
+    <media:thumbnail url="https://brandghostpublic.blob.core.windows.net/blog/2026-03-12-bluesky-automation-hero.webp"/>
+    
+  </entry>
+  
+  <entry>
+    <title>How to Schedule Twitter Posts Without Paying: Free Methods Explained</title>
+    <link href="https://blog.brandghost.ai/posts/schedule-twitter-posts-without-paying/" rel="alternate" type="text/html" title="How to Schedule Twitter Posts Without Paying: Free Methods Explained"/>
+    <published>2026-03-11T18:00:00+00:00</published>
+    <updated>2026-03-11T18:00:00+00:00</updated>
+    <id>https://blog.brandghost.ai/posts/schedule-twitter-posts-without-paying/</id>
+    <content type="text/html" src="https://blog.brandghost.ai/posts/schedule-twitter-posts-without-paying/"/>
+    
+    <author>
+      <name>BrandGhost</name>
+    </author>
+    
+    
+    <category term="Social Media Platforms"/>
+    
+    <category term="Twitter"/>
+    
+    
+    <category term="schedule twitter posts without paying"/>
+    
+    <category term="free twitter scheduling"/>
+    
+    <category term="twitter free tools"/>
+    
+    <category term="budget scheduling"/>
+    
+    <category term="twitter native scheduling"/>
+    
+    <summary>Learn how to schedule Twitter posts without paying for premium tools. Explore native features and free approaches to maintain consistent posting.</summary>
+    
+    
+      
+    <media:content url="https://brandghostpublic.blob.core.windows.net/blog/2026-03-11-schedule-twitter-posts-without-paying-hero.webp" medium="image"/>
+    <media:thumbnail url="https://brandghostpublic.blob.core.windows.net/blog/2026-03-11-schedule-twitter-posts-without-paying-hero.webp"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Bluesky for Business: Marketing on Decentralized Social Media</title>
+    <link href="https://blog.brandghost.ai/posts/bluesky-for-business/" rel="alternate" type="text/html" title="Bluesky for Business: Marketing on Decentralized Social Media"/>
+    <published>2026-03-11T06:00:00+00:00</published>
+    <updated>2026-03-11T06:00:00+00:00</updated>
+    <id>https://blog.brandghost.ai/posts/bluesky-for-business/</id>
+    <content type="text/html" src="https://blog.brandghost.ai/posts/bluesky-for-business/"/>
+    
+    <author>
+      <name>BrandGhost</name>
+    </author>
+    
+    
+    <category term="Social Media Platforms"/>
+    
+    <category term="Bluesky"/>
+    
+    
+    <category term="bluesky business"/>
+    
+    <category term="bluesky marketing"/>
+    
+    <category term="bluesky for brands"/>
+    
+    <category term="decentralized social media business"/>
+    
+    <category term="bluesky brand presence"/>
+    
+    <summary>Learn how businesses can use Bluesky for marketing. Understand the platform&apos;s culture, build authentic presence, and reach engaged audiences.</summary>
+    
+    
+      
+    <media:content url="https://brandghostpublic.blob.core.windows.net/blog/2026-03-11-bluesky-for-business-hero.webp" medium="image"/>
+    <media:thumbnail url="https://brandghostpublic.blob.core.windows.net/blog/2026-03-11-bluesky-for-business-hero.webp"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Twitter Automation: Save Time While Growing Your Audience</title>
+    <link href="https://blog.brandghost.ai/posts/twitter-automation/" rel="alternate" type="text/html" title="Twitter Automation: Save Time While Growing Your Audience"/>
+    <published>2026-03-10T18:00:00+00:00</published>
+    <updated>2026-03-10T18:00:00+00:00</updated>
+    <id>https://blog.brandghost.ai/posts/twitter-automation/</id>
+    <content type="text/html" src="https://blog.brandghost.ai/posts/twitter-automation/"/>
+    
+    <author>
+      <name>BrandGhost</name>
+    </author>
+    
+    
+    <category term="AI &amp; Automation"/>
+    
+    <category term="Twitter"/>
+    
+    
+    <category term="twitter automation"/>
+    
+    <category term="twitter scheduling"/>
+    
+    <category term="social media automation"/>
+    
+    <category term="automated posting"/>
+    
+    <category term="twitter growth"/>
+    
+    <summary>Learn Twitter automation strategies that save time without sacrificing authenticity. Understand what to automate and what requires a human touch.</summary>
+    
+    
+      
+    <media:content url="https://brandghostpublic.blob.core.windows.net/blog/2026-03-10-twitter-automation-hero.webp" medium="image"/>
+    <media:thumbnail url="https://brandghostpublic.blob.core.windows.net/blog/2026-03-10-twitter-automation-hero.webp"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Bluesky Content Strategy: Building Your Presence on Decentralized Social</title>
+    <link href="https://blog.brandghost.ai/posts/bluesky-content-strategy/" rel="alternate" type="text/html" title="Bluesky Content Strategy: Building Your Presence on Decentralized Social"/>
+    <published>2026-03-10T06:00:00+00:00</published>
+    <updated>2026-03-10T06:00:00+00:00</updated>
+    <id>https://blog.brandghost.ai/posts/bluesky-content-strategy/</id>
+    <content type="text/html" src="https://blog.brandghost.ai/posts/bluesky-content-strategy/"/>
+    
+    <author>
+      <name>BrandGhost</name>
+    </author>
+    
+    
+    <category term="Content Strategy"/>
+    
+    <category term="Bluesky"/>
+    
+    
+    <category term="bluesky content strategy"/>
+    
+    <category term="bluesky marketing"/>
+    
+    <category term="bluesky growth"/>
+    
+    <category term="decentralized social media strategy"/>
+    
+    <category term="bluesky audience building"/>
+    
+    <summary>Develop an effective Bluesky content strategy that builds audience and community. Learn what works on this decentralized platform and how to stand out.</summary>
+    
+    
+      
+    <media:content url="https://brandghostpublic.blob.core.windows.net/blog/2026-03-10-bluesky-content-strategy-hero.webp" medium="image"/>
+    <media:thumbnail url="https://brandghostpublic.blob.core.windows.net/blog/2026-03-10-bluesky-content-strategy-hero.webp"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Twitter Thread Scheduling: Master Multi-Post Storytelling</title>
+    <link href="https://blog.brandghost.ai/posts/twitter-thread-scheduling/" rel="alternate" type="text/html" title="Twitter Thread Scheduling: Master Multi-Post Storytelling"/>
+    <published>2026-03-09T18:00:00+00:00</published>
+    <updated>2026-03-09T18:00:00+00:00</updated>
+    <id>https://blog.brandghost.ai/posts/twitter-thread-scheduling/</id>
+    <content type="text/html" src="https://blog.brandghost.ai/posts/twitter-thread-scheduling/"/>
+    
+    <author>
+      <name>BrandGhost</name>
+    </author>
+    
+    
+    <category term="Social Media Platforms"/>
+    
+    <category term="Twitter"/>
+    
+    
+    <category term="twitter thread scheduling"/>
+    
+    <category term="twitter threads"/>
+    
+    <category term="thread writing"/>
+    
+    <category term="twitter storytelling"/>
+    
+    <category term="scheduled threads"/>
+    
+    <summary>Master Twitter thread scheduling with proven techniques. Learn how to plan, structure, and schedule threads that keep readers engaged to the end.</summary>
+    
+    
+      
+    <media:content url="https://brandghostpublic.blob.core.windows.net/blog/2026-03-09-twitter-thread-scheduling-hero.webp" medium="image"/>
+    <media:thumbnail url="https://brandghostpublic.blob.core.windows.net/blog/2026-03-09-twitter-thread-scheduling-hero.webp"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Best Time to Post on Bluesky: When Your Audience Is Active</title>
+    <link href="https://blog.brandghost.ai/posts/best-time-to-post-on-bluesky/" rel="alternate" type="text/html" title="Best Time to Post on Bluesky: When Your Audience Is Active"/>
+    <published>2026-03-09T06:00:00+00:00</published>
+    <updated>2026-03-09T06:00:00+00:00</updated>
+    <id>https://blog.brandghost.ai/posts/best-time-to-post-on-bluesky/</id>
+    <content type="text/html" src="https://blog.brandghost.ai/posts/best-time-to-post-on-bluesky/"/>
+    
+    <author>
+      <name>BrandGhost</name>
+    </author>
+    
+    
+    <category term="Social Media Platforms"/>
+    
+    <category term="Bluesky"/>
+    
+    
+    <category term="best time to post bluesky"/>
+    
+    <category term="bluesky engagement"/>
+    
+    <category term="bluesky posting times"/>
+    
+    <category term="bluesky analytics"/>
+    
+    <category term="when to post bluesky"/>
+    
+    <summary>Discover the best times to post on Bluesky for maximum engagement. Learn how to find when your specific audience is most active on this decentralized platform.</summary>
+    
+    
+      
+    <media:content url="https://brandghostpublic.blob.core.windows.net/blog/2026-03-09-best-time-to-post-on-bluesky-hero.webp" medium="image"/>
+    <media:thumbnail url="https://brandghostpublic.blob.core.windows.net/blog/2026-03-09-best-time-to-post-on-bluesky-hero.webp"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Twitter for Business Scheduling: Build a Professional Presence</title>
+    <link href="https://blog.brandghost.ai/posts/twitter-for-business-scheduling/" rel="alternate" type="text/html" title="Twitter for Business Scheduling: Build a Professional Presence"/>
+    <published>2026-03-08T18:00:00+00:00</published>
+    <updated>2026-03-08T18:00:00+00:00</updated>
+    <id>https://blog.brandghost.ai/posts/twitter-for-business-scheduling/</id>
+    <content type="text/html" src="https://blog.brandghost.ai/posts/twitter-for-business-scheduling/"/>
+    
+    <author>
+      <name>BrandGhost</name>
+    </author>
+    
+    
+    <category term="Social Media Platforms"/>
+    
+    <category term="Twitter"/>
+    
+    
+    <category term="twitter for business scheduling"/>
+    
+    <category term="business twitter"/>
+    
+    <category term="twitter marketing"/>
+    
+    <category term="brand twitter"/>
+    
+    <category term="professional twitter"/>
+    
+    <summary>Learn Twitter for business scheduling strategies that build credibility. Discover how to maintain consistent brand presence while managing your workload.</summary>
+    
+    
+      
+    <media:content url="https://brandghostpublic.blob.core.windows.net/blog/2026-03-08-twitter-for-business-scheduling-hero.webp" medium="image"/>
+    <media:thumbnail url="https://brandghostpublic.blob.core.windows.net/blog/2026-03-08-twitter-for-business-scheduling-hero.webp"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Best Bluesky Scheduler: Top Tools Compared for 2026</title>
+    <link href="https://blog.brandghost.ai/posts/best-bluesky-scheduler/" rel="alternate" type="text/html" title="Best Bluesky Scheduler: Top Tools Compared for 2026"/>
+    <published>2026-03-08T06:00:00+00:00</published>
+    <updated>2026-03-08T06:00:00+00:00</updated>
+    <id>https://blog.brandghost.ai/posts/best-bluesky-scheduler/</id>
+    <content type="text/html" src="https://blog.brandghost.ai/posts/best-bluesky-scheduler/"/>
+    
+    <author>
+      <name>BrandGhost</name>
+    </author>
+    
+    
+    <category term="Social Media Tools"/>
+    
+    <category term="Bluesky"/>
+    
+    
+    <category term="bluesky scheduler"/>
+    
+    <category term="bluesky scheduling tools"/>
+    
+    <category term="schedule bluesky posts"/>
+    
+    <category term="bluesky automation tools"/>
+    
+    <category term="social media scheduler"/>
+    
+    <summary>Compare the best Bluesky scheduling tools for 2026. Find the right scheduler for your needs with features, pricing, and platform support breakdowns.</summary>
+    
+    
+      
+    <media:content url="https://brandghostpublic.blob.core.windows.net/blog/2026-03-08-best-bluesky-scheduler-hero.webp" medium="image"/>
+    <media:thumbnail url="https://brandghostpublic.blob.core.windows.net/blog/2026-03-08-best-bluesky-scheduler-hero.webp"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Twitter Content Calendar Template: Plan Your Posts for Impact</title>
+    <link href="https://blog.brandghost.ai/posts/twitter-content-calendar-template/" rel="alternate" type="text/html" title="Twitter Content Calendar Template: Plan Your Posts for Impact"/>
+    <published>2026-03-07T18:00:00+00:00</published>
+    <updated>2026-03-07T18:00:00+00:00</updated>
+    <id>https://blog.brandghost.ai/posts/twitter-content-calendar-template/</id>
+    <content type="text/html" src="https://blog.brandghost.ai/posts/twitter-content-calendar-template/"/>
+    
+    <author>
+      <name>BrandGhost</name>
+    </author>
+    
+    
+    <category term="Content Strategy"/>
+    
+    <category term="Twitter"/>
+    
+    
+    <category term="twitter content calendar template"/>
+    
+    <category term="twitter planning"/>
+    
+    <category term="content calendar"/>
+    
+    <category term="social media planning"/>
+    
+    <category term="twitter strategy"/>
+    
+    <summary>Get a Twitter content calendar template that actually works. Learn how to plan, organize, and maintain consistent posting with proven frameworks.</summary>
+    
+    
+      
+    <media:content url="https://brandghostpublic.blob.core.windows.net/blog/2026-03-07-twitter-content-calendar-template-hero.webp" medium="image"/>
+    <media:thumbnail url="https://brandghostpublic.blob.core.windows.net/blog/2026-03-07-twitter-content-calendar-template-hero.webp"/>
+    
+  </entry>
+  
+  <entry>
+    <title>How to Schedule Bluesky Posts: Complete Guide for 2026</title>
+    <link href="https://blog.brandghost.ai/posts/how-to-schedule-bluesky-posts/" rel="alternate" type="text/html" title="How to Schedule Bluesky Posts: Complete Guide for 2026"/>
+    <published>2026-03-07T06:00:00+00:00</published>
+    <updated>2026-03-07T06:00:00+00:00</updated>
+    <id>https://blog.brandghost.ai/posts/how-to-schedule-bluesky-posts/</id>
+    <content type="text/html" src="https://blog.brandghost.ai/posts/how-to-schedule-bluesky-posts/"/>
+    
+    <author>
+      <name>BrandGhost</name>
+    </author>
+    
+    
+    <category term="Social Media Platforms"/>
+    
+    <category term="Bluesky"/>
+    
+    
+    <category term="schedule bluesky posts"/>
+    
+    <category term="bluesky scheduling"/>
+    
+    <category term="bluesky automation"/>
+    
+    <category term="at protocol scheduling"/>
+    
+    <category term="bluesky tools"/>
+    
+    <category term="decentralized social media"/>
+    
+    <summary>Learn how to schedule Bluesky posts using scheduling tools, the AT Protocol API, and third-party platforms. Complete guide to automating your Bluesky content.</summary>
+    
+    
+      
+    <media:content url="https://brandghostpublic.blob.core.windows.net/blog/2026-03-07-how-to-schedule-bluesky-posts-hero.webp" medium="image"/>
+    <media:thumbnail url="https://brandghostpublic.blob.core.windows.net/blog/2026-03-07-how-to-schedule-bluesky-posts-hero.webp"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Twitter Scheduler Features: What to Look for in 2026</title>
+    <link href="https://blog.brandghost.ai/posts/what-to-look-for-twitter-scheduler/" rel="alternate" type="text/html" title="Twitter Scheduler Features: What to Look for in 2026"/>
+    <published>2026-03-06T18:00:00+00:00</published>
+    <updated>2026-03-06T18:00:00+00:00</updated>
+    <id>https://blog.brandghost.ai/posts/what-to-look-for-twitter-scheduler/</id>
+    <content type="text/html" src="https://blog.brandghost.ai/posts/what-to-look-for-twitter-scheduler/"/>
+    
+    <author>
+      <name>BrandGhost</name>
+    </author>
+    
+    
+    <category term="Social Media Tools"/>
+    
+    <category term="Twitter"/>
+    
+    
+    <category term="twitter scheduler features"/>
+    
+    <category term="twitter scheduling"/>
+    
+    <category term="scheduling tools"/>
+    
+    <category term="social media tools"/>
+    
+    <category term="content planning"/>
+    
+    <summary>Learn what Twitter scheduler features actually matter for your workflow. Understand the key capabilities that separate basic tools from powerful solutions.</summary>
+    
+    
+      
+    <media:content url="https://brandghostpublic.blob.core.windows.net/blog/2026-03-06-what-to-look-for-twitter-scheduler-hero.webp" medium="image"/>
+    <media:thumbnail url="https://brandghostpublic.blob.core.windows.net/blog/2026-03-06-what-to-look-for-twitter-scheduler-hero.webp"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mastodon Instance Guide: How to Choose the Right Server</title>
+    <link href="https://blog.brandghost.ai/posts/mastodon-instance-guide/" rel="alternate" type="text/html" title="Mastodon Instance Guide: How to Choose the Right Server"/>
+    <published>2026-03-06T06:00:00+00:00</published>
+    <updated>2026-03-06T06:00:00+00:00</updated>
+    <id>https://blog.brandghost.ai/posts/mastodon-instance-guide/</id>
+    <content type="text/html" src="https://blog.brandghost.ai/posts/mastodon-instance-guide/"/>
+    
+    <author>
+      <name>BrandGhost</name>
+    </author>
+    
+    
+    <category term="Social Media Platforms"/>
+    
+    <category term="Mastodon"/>
+    
+    
+    <category term="mastodon instance guide"/>
+    
+    <category term="mastodon server"/>
+    
+    <category term="choose mastodon instance"/>
+    
+    <category term="mastodon instance"/>
+    
+    <category term="fediverse server"/>
+    
+    <category term="mastodon migration"/>
+    
+    <summary>Complete Mastodon instance guide for choosing the right server. Learn about instance types, federation, moderation, and migration for fediverse success.</summary>
+    
+    
+      
+    <media:content url="https://brandghostpublic.blob.core.windows.net/blog/2026-03-06-mastodon-instance-guide-hero.webp" medium="image"/>
+    <media:thumbnail url="https://brandghostpublic.blob.core.windows.net/blog/2026-03-06-mastodon-instance-guide-hero.webp"/>
+    
+  </entry>
+  
+</feed>
