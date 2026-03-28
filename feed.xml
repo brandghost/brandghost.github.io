@@ -1,0 +1,159 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://blog.brandghost.ai/</id>
+  <title>BrandGhost</title>
+  <subtitle>Reduce time and effort in growing your content creator business.</subtitle>
+  <updated>2026-03-28T15:06:06+00:00</updated>
+  <author>
+    <name>BrandGhost</name>
+    <uri>https://blog.brandghost.ai/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://blog.brandghost.ai/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="https://blog.brandghost.ai/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2026 BrandGhost </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>How to Schedule LinkedIn Carousels: A Step-by-Step Guide</title>
+    <link href="https://blog.brandghost.ai/posts/schedule-linkedin-carousels/" rel="alternate" type="text/html" title="How to Schedule LinkedIn Carousels: A Step-by-Step Guide" />
+    <published>2026-03-28T12:00:00+00:00</published>
+  
+    <updated>2026-03-28T12:00:00+00:00</updated>
+  
+    <id>https://blog.brandghost.ai/posts/schedule-linkedin-carousels/</id>
+    <content type="text/html" src="https://blog.brandghost.ai/posts/schedule-linkedin-carousels/" />
+    <author>
+      <name>BrandGhost</name>
+    </author>
+
+  
+    
+    <category term="social-media-platforms" />
+    
+    <category term="linkedin" />
+    
+    <category term="scheduling" />
+    
+  
+
+  <summary>Learn how to schedule LinkedIn carousels step by step — from creating the PDF to choosing a tool with true scheduling support and timing posts for reach.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Try BrandGhost MCP Free: Complete Setup and First Automated Post Walkthrough</title>
+    <link href="https://blog.brandghost.ai/posts/brandghost-mcp-free-trial-get-started/" rel="alternate" type="text/html" title="Try BrandGhost MCP Free: Complete Setup and First Automated Post Walkthrough" />
+    <published>2026-03-28T06:00:00+00:00</published>
+  
+    <updated>2026-03-28T06:00:00+00:00</updated>
+  
+    <id>https://blog.brandghost.ai/posts/brandghost-mcp-free-trial-get-started/</id>
+    <content type="text/html" src="https://blog.brandghost.ai/posts/brandghost-mcp-free-trial-get-started/" />
+    <author>
+      <name>BrandGhost</name>
+    </author>
+
+  
+    
+    <category term="artificial-intelligence" />
+    
+    <category term="mcp" />
+    
+    <category term="getting-started" />
+    
+  
+
+  <summary>Try BrandGhost MCP free: a step-by-step walkthrough from creating your BrandGhost account and configuring Claude Desktop to your first scheduled post.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Reddit for Content Creators: The Complete Guide</title>
+    <link href="https://blog.brandghost.ai/posts/reddit-for-content-creators/" rel="alternate" type="text/html" title="Reddit for Content Creators: The Complete Guide" />
+    <published>2026-03-27T18:00:00+00:00</published>
+  
+    <updated>2026-03-27T18:00:00+00:00</updated>
+  
+    <id>https://blog.brandghost.ai/posts/reddit-for-content-creators/</id>
+    <content type="text/html" src="https://blog.brandghost.ai/posts/reddit-for-content-creators/" />
+    <author>
+      <name>BrandGhost</name>
+    </author>
+
+  
+    
+    <category term="social-media-platforms" />
+    
+    <category term="reddit" />
+    
+  
+
+  <summary>Learn how to use Reddit as a content creator to grow your audience, build community authority, and drive traffic — without getting shadowbanned.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>LinkedIn for Business: Scheduling and Content Strategy Guide</title>
+    <link href="https://blog.brandghost.ai/posts/linkedin-for-business/" rel="alternate" type="text/html" title="LinkedIn for Business: Scheduling and Content Strategy Guide" />
+    <published>2026-03-27T12:00:00+00:00</published>
+  
+    <updated>2026-03-27T12:00:00+00:00</updated>
+  
+    <id>https://blog.brandghost.ai/posts/linkedin-for-business/</id>
+    <content type="text/html" src="https://blog.brandghost.ai/posts/linkedin-for-business/" />
+    <author>
+      <name>BrandGhost</name>
+    </author>
+
+  
+    
+    <category term="social-media-platforms" />
+    
+    <category term="linkedin" />
+    
+  
+
+  <summary>A practical guide to linkedin for business — what to post, how often, and how to build a scheduling system that keeps your presence consistent.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>BrandGhost MCP Use Cases: What You Can Actually Do After Setup</title>
+    <link href="https://blog.brandghost.ai/posts/brandghost-mcp-use-cases-what-you-can-do/" rel="alternate" type="text/html" title="BrandGhost MCP Use Cases: What You Can Actually Do After Setup" />
+    <published>2026-03-27T06:00:00+00:00</published>
+  
+    <updated>2026-03-27T06:00:00+00:00</updated>
+  
+    <id>https://blog.brandghost.ai/posts/brandghost-mcp-use-cases-what-you-can-do/</id>
+    <content type="text/html" src="https://blog.brandghost.ai/posts/brandghost-mcp-use-cases-what-you-can-do/" />
+    <author>
+      <name>BrandGhost</name>
+    </author>
+
+  
+    
+    <category term="artificial-intelligence" />
+    
+    <category term="mcp" />
+    
+    <category term="getting-started" />
+    
+  
+
+  <summary>Discover the real-world BrandGhost MCP use cases worth your time: batch scheduling, topic streams, analytics, and AI content generation with Claude.</summary>
+
+  </entry>
+
+</feed>
+
+
